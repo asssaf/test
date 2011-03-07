@@ -1,2 +1,2 @@
-*.conf filter=email
+smartd.conf filter=email
 
